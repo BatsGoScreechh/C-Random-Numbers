@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\bin\Debug\netcoreapp2.2\random-numbers.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-4\random-numbers\obj\Debug\netcoreapp2.2\random-numbers.pdb
